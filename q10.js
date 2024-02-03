@@ -27,7 +27,7 @@ inp.on("line", (data) => {
 
 inp.on("close", () => {
   //start-here
-  //Your code goes here … replace the below line with your code logic
+  //Your code goes here
 
   const arr = userInput[0].split("");
 
